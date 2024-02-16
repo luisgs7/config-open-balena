@@ -1,5 +1,5 @@
 {
-  "applicationId": 7,
+  "applicationId": 8,
   "deviceType": "raspberry-pi",
   "userId": 2,
   "appUpdatePollInterval": 600000,
