@@ -8,7 +8,6 @@
   "apiEndpoint": "https://api.openbalena.pecsmart.cloud",
   "vpnEndpoint": "vpn.openbalena.pecsmart.cloud",
   "registryEndpoint": "registry.openbalena.pecsmart.cloud",
-  "deltaEndpoint": "https://delta.openbalena.pecsmart.cloud",
   "mixpanelToken": "__unused__",
   "apiKey": "3pt26cboSD1RsPTKmV7KleTV9ZZnqG10",
   "wifiSsid": "PecSmart",
